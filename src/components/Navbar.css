@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Montserrat,Afacad,Lato,sans-serif;
+}
+#text{
+    margin: 0px;
+    padding: 0px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+   position: relative;
+   top: 30px;
+   
+}
+#nav{
+    height: 100px;
+    background-color: #202c39;
+}

@@ -1,0 +1,17 @@
+#form_1{
+    margin-left: 200px;
+    margin-top: 30px
+}
+.tesk{
+    font-size: 20px;
+}
+#des{
+    background-color: rgb(19, 31, 44);
+    width: 400px;
+    /* height: 400px; */
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}

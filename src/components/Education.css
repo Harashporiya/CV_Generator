@@ -1,0 +1,19 @@
+#form_2{
+    margin-left: 200px;
+    margin-top: 30px
+}
+.tesk{
+    font-size: 20px;
+}
+input{
+    background-color: rgb(19, 31, 44);
+    padding: 20px;
+    font-size: 25px;
+    width: 350px;
+    border-radius: 20px;
+    border: none;
+}
+input[type="text"]{
+    color: white;
+    font-size: 23px;
+}
