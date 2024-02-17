@@ -153,3 +153,22 @@ hr{
        
     }
 }
+
+.download-button {
+    background-color: #4caf50;
+    color: rgb(23, 40, 54);
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  .download-button.json {
+    background-color: #2ceaff;
+  }
+  
+  .download-button.html {
+    background-color: #e74c3c;
+  }
